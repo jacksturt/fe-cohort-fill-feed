@@ -1,5 +1,7 @@
 # Manifest Fill Feed
 
+Based on the [Manifest Orderbook](https://github.com/CKS-Systems/manifest/tree/main/client) repository.
+
 This is a simple feed that listens for fills and orders on the Manifest DEX and logs them to the console.
 
 ## Running
